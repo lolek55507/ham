@@ -1,0 +1,30 @@
+body {
+    background-color: #000;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+main {
+    display: grid;
+    place-items: center;
+    margin-top: 50%;
+}
+#eyes, #eyes, img {
+    position: absolute;
+}
+.A {
+    top: -180px;
+    left: -480px;
+}
+.B {
+    top: -180px;
+    left: -280px;
+}
+.C {
+    top: 0;
+    left: 300px;
+}
+.D {
+    top: -25px;
+    left: 50px;
+}
